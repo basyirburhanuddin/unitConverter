@@ -1,5 +1,5 @@
 # unitConverter
-convert metric units to imperial units.
+Convert metric units to imperial units.
 
 This project is a part of Scrimba solo JavaScript challenge.
 
